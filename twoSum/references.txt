@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/19286657/index-all-except-one-item-in-python
